@@ -1,2 +1,2 @@
 # maze
-cse 373 project 4
+Implemented Kruskal's algorithm and Dijkstra's algorithm to help generate and solve mazes.
